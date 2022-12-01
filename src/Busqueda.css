@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+div{
+    width: 100vw;
+    /* display: flex; */
+    /* flex-direction: row;
+    align-items: center;
+    justify-content: center; */
+    background-color: antiquewhite;
+}
+
+.h1{
+    color: blue;
+    font-size: 20px;
+    padding-left: 55px;
+    background-color: red;
+}
+
+.h2{
+    color: blue;
+    font-size: 20px;
+    padding-left: 15px;
+}
